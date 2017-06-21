@@ -1,0 +1,107 @@
+[I 14:26:13.304 NotebookApp] [nb_conda_kernels] enabled, 3 kernels found
+[I 14:26:13.790 NotebookApp] Loaded server extension jupyter_nbextensions_configurator
+[I 14:26:13.866 NotebookApp] JupyterLab alpha preview extension loaded from /home/lapis/.pyenv/versions/anaconda3-4.1.1/lib/python3.5/site-packages/jupyterlab
+[I 14:26:14.055 NotebookApp] [nb_anacondacloud] enabled
+[I 14:26:14.080 NotebookApp] [nb_conda] enabled
+[I 14:26:14.554 NotebookApp] ✓ nbpresent HTML export ENABLED
+[I 14:26:14.555 NotebookApp] ✓ nbpresent PDF export ENABLED
+[I 14:26:14.559 NotebookApp] Serving notebooks from local directory: /home/lapis/dl_book
+[I 14:26:14.560 NotebookApp] 0 active kernels 
+[I 14:26:14.560 NotebookApp] The Jupyter Notebook is running at: https://[all ip addresses on your system]:51112/?token=...
+[I 14:26:14.560 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 14:38:00.705 NotebookApp] Creating new notebook in 
+[I 14:38:07.303 NotebookApp] Kernel started: b755ff80-ba6c-45c7-962c-9c7c98dc2f62
+[I 14:40:06.424 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:42:06.525 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:44:06.704 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:46:06.494 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:48:06.622 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:50:06.635 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:51:56.344 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:53:04.753 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:54:06.530 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:56:06.636 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:58:06.622 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:00:07.759 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:02:07.200 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:04:07.212 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:06:07.902 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:08:00.215 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:10:07.410 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:12:07.466 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:16:07.432 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:26:07.440 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:52:07.450 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:56:07.482 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:58:07.786 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:00:08.367 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:00:45.993 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:02:08.537 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:03:54.068 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:04:08.826 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:06:08.359 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:08:08.173 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:10:08.271 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:12:09.806 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:16:08.355 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:18:09.982 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:20:08.492 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:22:08.579 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:24:08.360 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:32:08.425 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:40:10.577 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:40:56.924 NotebookApp] Creating new notebook in 
+[I 16:40:59.200 NotebookApp] Kernel started: edb3387a-e1ae-4b37-96bd-9116900efcb1
+[I 16:42:08.740 NotebookApp] Saving file at /L1_vs_L2.ipynb
+[I 16:42:58.504 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:43:32.911 NotebookApp] Saving file at /L1_vs_L2.ipynb
+[I 16:44:08.363 NotebookApp] Saving file at /L1_vs_L2.ipynb
+[I 16:44:44.029 NotebookApp] Creating new notebook in 
+[I 16:44:46.206 NotebookApp] Kernel started: 9c11cd8f-8cb9-4482-b861-a76f9f49f041
+[I 16:44:58.505 NotebookApp] Saving file at /data_augmentation.ipynb
+[I 16:46:09.749 NotebookApp] Saving file at /fitting.ipynb
+[I 16:46:10.001 NotebookApp] Saving file at /L1_vs_L2.ipynb
+[I 16:46:46.802 NotebookApp] Saving file at /fitting.ipynb
+[I 16:47:30.120 NotebookApp] Saving file at /L1_vs_L2.ipynb
+[I 16:47:32.828 NotebookApp] Saving file at /L1_vs_L2.ipynb
+[I 16:47:33.181 NotebookApp] Saving file at /L1_vs_L2.ipynb
+[I 16:47:34.230 NotebookApp] Saving file at /L1_vs_L2.ipynb
+[I 16:47:34.763 NotebookApp] Saving file at /L1_vs_L2.ipynb
+[I 16:47:35.309 NotebookApp] Saving file at /L1_vs_L2.ipynb
+[I 16:47:40.124 NotebookApp] Kernel shutdown: 9c11cd8f-8cb9-4482-b861-a76f9f49f041
+[I 16:47:41.231 NotebookApp] Kernel shutdown: b755ff80-ba6c-45c7-962c-9c7c98dc2f62
+[I 16:47:45.045 NotebookApp] Kernel started: 593eea7a-f143-4278-8d92-7977ccac0c6b
+[W 16:47:51.420 NotebookApp] delete /fitting.ipynb
+[W 16:47:51.429 NotebookApp] delete /L1_vs_L2.ipynb
+[W 16:47:51.438 NotebookApp] delete /Boston.csv
+[I 16:48:57.982 NotebookApp] Creating new notebook in 
+[I 16:49:00.269 NotebookApp] Kernel started: 97c08d8b-0577-45f8-bf3a-f8f65bb4d69b
+[W 16:49:39.469 NotebookApp] No such file or directory: L1_vs_L2.ipynb
+[W 16:49:39.469 NotebookApp] 404 GET /api/contents/L1_vs_L2.ipynb?content=0&_=1498031248039 (133.51.65.16) 1.97ms referer=https://133.51.14.172:51112/notebooks/L1_vs_L2.ipynb
+[W 16:49:40.378 NotebookApp] No such file or directory: L1_vs_L2.ipynb
+[W 16:49:40.379 NotebookApp] 404 GET /api/contents/L1_vs_L2.ipynb?content=0&_=1498031248040 (133.51.65.16) 1.67ms referer=https://133.51.14.172:51112/notebooks/L1_vs_L2.ipynb
+[I 16:49:40.992 NotebookApp] Uploading file to /L1_vs_L2.ipynb
+[I 16:49:41.959 NotebookApp] Saving file at /L1_vs_L2.ipynb
+[I 16:49:44.377 NotebookApp] Saving file at /L1_vs_L2.ipynb
+[I 16:50:59.539 NotebookApp] Saving file at /fitting.ipynb
+[I 16:52:59.757 NotebookApp] Saving file at /fitting.ipynb
+[I 16:54:59.725 NotebookApp] Saving file at /fitting.ipynb
+[I 16:56:59.869 NotebookApp] Saving file at /fitting.ipynb
+[I 16:59:00.527 NotebookApp] Saving file at /fitting.ipynb
+[I 16:59:09.238 NotebookApp] Saving file at /fitting.ipynb
+[I 16:59:29.743 NotebookApp] Kernel shutdown: 97c08d8b-0577-45f8-bf3a-f8f65bb4d69b
+[I 16:59:30.315 NotebookApp] Kernel shutdown: 593eea7a-f143-4278-8d92-7977ccac0c6b
+[I 16:59:49.897 NotebookApp] Kernel started: 8422a1a8-b1bc-4696-9849-be6507b36e92
+[I 16:59:55.018 NotebookApp] Kernel started: 15973714-f0d1-4c81-85c3-92ef75d2113a
+[I 17:00:06.649 NotebookApp] Saving file at /fitting.ipynb
+[I 17:00:07.686 NotebookApp] Saving file at /fitting.ipynb
+[I 17:00:32.290 NotebookApp] Saving file at /L1_vs_L2.ipynb
+[I 17:00:33.745 NotebookApp] Saving file at /L1_vs_L2.ipynb
+[I 17:00:35.456 NotebookApp] Saving file at /L1_vs_L2.ipynb
+[I 17:00:38.749 NotebookApp] Kernel shutdown: 8422a1a8-b1bc-4696-9849-be6507b36e92
+[I 17:00:39.557 NotebookApp] Kernel shutdown: 15973714-f0d1-4c81-85c3-92ef75d2113a
+[I 17:00:58.491 NotebookApp] Saving file at /data_augmentation.ipynb
+[I 17:06:05.914 NotebookApp] Saving file at /data_augmentation.ipynb
+[I 17:06:07.675 NotebookApp] Saving file at /data_augmentation.ipynb
+[I 17:07:11.200 NotebookApp] KernelRestarter: restarting kernel (1/5)
+WARNING:root:kernel edb3387a-e1ae-4b37-96bd-9116900efcb1 restarted
